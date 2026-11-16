@@ -8,11 +8,14 @@
 6.Hadoop (Almacenamiento Distribuido)
 7.Hive(SQL)
 8.Spark
-9.Pyspark(Lenguaje Spark + Python)
-10. Databricks(Procesamiento en Nube)
-11.Jenkin(CI/CD)
-12.Aparche Airflow (Oruestacion)
-13. SSH (Conexion Remota)
+9.MongoDB(Base de dDAROS No Relacional)
+ -MongoDB Local
+ -MongoDB Atlas (Online)
+10.Pyspark(Lenguaje Spark + Python)
+11. Databricks(Procesamiento en Nube)
+12.Jenkin(CI/CD)
+13.Aparche Airflow (Oruestacion)
+14. SSH (Conexion Remota)
 ## Metodologias 
 - Arquitectura Medallon
 - Dama_Book
